@@ -43,7 +43,7 @@
 
 ## 👨‍💻 Auteur
 **Guy Rostant Kamdem**  
-Étudiant en Génie Logiciel – Canada  
+Developpeur Fullstack – Canada  
 📧 guyrostantkamdem@gmail.com  
 🔗 www.linkedin.com/in/guy-rostant-kamdem-652b7b216
 
